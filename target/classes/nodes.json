@@ -1,0 +1,34 @@
+[
+  {
+
+    "label": "NodeA",
+    "id" : 0,
+    "parentID": 100
+
+  },
+  {
+
+    "label": "NodeB",
+    "id" : 10,
+    "parentID": 300
+  },
+  {
+
+    "label": "NodeC",
+    "id" : 3,
+    "parentID": 40
+  },
+  {
+
+    "label": "NodeD",
+    "id" : 7,
+    "parentID": 14
+  },
+  {
+
+    "label": "NodeE",
+    "id" : 7,
+    "parentID": 7000
+  }
+]
+
